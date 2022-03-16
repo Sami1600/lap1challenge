@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "express": "^4.17.3",
+    "nodemon": "^2.0.15",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {
+    "jest": "^27.5.1"
+  },
+  "name": "lap1codechall",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app.js",
+    "start": "node app.js" 
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
